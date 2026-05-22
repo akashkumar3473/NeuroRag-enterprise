@@ -1,0 +1,17 @@
+# Backend environment and dependencies
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/enterprise_rag.db
+*.pyc
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# System and editor files
+.DS_Store
+.idea/
+.vscode/
+*.log
